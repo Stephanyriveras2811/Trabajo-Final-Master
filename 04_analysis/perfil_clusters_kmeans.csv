@@ -1,0 +1,3 @@
+segmento_kmeans,cantidad_productos,product_price,product_star_rating,discount_pct,rating_balance,product_num_ratings,sales_volume_num
+Cluster 1,19,69.65,4.47,34.82,0.71,36048.21,8210.53
+Cluster 2,1,279.95,4.4,,0.65,39.0,

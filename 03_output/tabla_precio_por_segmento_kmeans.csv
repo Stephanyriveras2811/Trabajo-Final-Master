@@ -1,0 +1,4 @@
+Segmento_kmeans,cantidad,precio_promedio,precio_min,precio_max
+Económico (K-means),5,47.74,29.95,98.0
+Medio (K-means),14,86.97,24.56,224.0
+Premium (K-means),1,279.95,279.95,279.95

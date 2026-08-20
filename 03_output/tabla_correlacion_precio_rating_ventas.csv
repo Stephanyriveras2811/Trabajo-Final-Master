@@ -1,0 +1,4 @@
+,price,product_star_rating,sales_volume_num
+price,1.0,0.03,0.141
+product_star_rating,0.03,1.0,-0.124
+sales_volume_num,0.141,-0.124,1.0
